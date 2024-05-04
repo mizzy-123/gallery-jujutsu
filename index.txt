@@ -1,0 +1,7 @@
+<div class="container">
+      <div class="box box1" style="--img: url(/images/sukuna.jpg)" data-text="SUKUNA RYOUMEN"></div>
+      <div class="box box2" style="--img: url(/images/toji.jpg)" data-text="TOJI FUSHIGURO"></div>
+      <div class="box box3" style="--img: url(/images/satoru.jpg)" data-text="GOJO SATORU"></div>
+      <div class="box box4" style="--img: url(/images/nanami.jpg)" data-text="NANAMI KENTO"></div>
+      <div class="box box5" style="--img: url(/images/yuuta.jpg)" data-text="OKKOTSU YUUTA"></div>
+    </div>
